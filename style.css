@@ -1,0 +1,74 @@
+/* CSS styles for the body */
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* CSS styles for the container */
+/* style.css */
+
+/* CSS styles for the container */
+.container {
+    text-align: center;
+    max-width: 600px;
+    margin-left: -350px;
+    border: 2px solid #4078c0; /* Border color */
+    padding: 20px;
+    background-color: #f2f9ff; /* Background color */
+
+    border-radius: 8px;
+    margin-top: 20px; /* Adjust the margin as needed */
+}
+.logo {
+    
+    justify-content: center;
+    text-align: center;
+    margin-top: -430px; /* Adjust the top margin as needed */
+    margin-bottom: 10px; /* Add or adjust the bottom margin as needed */
+    max-height: 80px; /* Adjust the maximum height as needed */
+    object-fit: contain;
+    margin-left: 200px;
+    
+}
+
+/* CSS styles for the header */
+.header-style {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/* CSS styles for the content */
+.content-style {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #555; /* Text color */
+    margin-bottom: 20px;
+}
+
+/* CSS styles for the button */
+.button-style {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #4078c0;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 4px;
+}
+
+/* CSS styles for links */
+.link-style {
+    color: #4078c0;
+    text-decoration: none;
+}
+
+.link-style:hover {
+    text-decoration: underline;
+}
+
+/* CSS styles for the logo */
